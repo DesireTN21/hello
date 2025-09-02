@@ -1,11 +1,21 @@
 /**
- * A simple hello world program in C
+ * Author: Dalton Nguyen
+ * Date: 2025/08/28
+ *
+ *
+ * Prints me and my partners name and major
+ *
  */
+
+#include <stdlib.h>
+#include <stdio.h>
 
 int main(int argc, char **argv) {
 
-  printf("Hello, I'M Desire Tonye Nyemeck!\n");
-printf("Major Electrical Engineering!\n");
+printf("Hello World, My name is Dalton!\n");
+printf("My major is Computer Science!\n");
 
-  return 0;
+printf("Desire Tonye Nyemeck, Major Electrical Engineering")
+
+return 0;
 }
